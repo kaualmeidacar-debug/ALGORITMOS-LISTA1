@@ -23,7 +23,7 @@ $dinheiroRestante = $recebido - $gasto;
     </p>
     <?php echo ("Dinheiro recebido pelo organizador: R$" . $recebido . "<br>"); ?>
     <?php echo ("Dinheiro gasto pelo organizador: R$" . $gasto . "<br>"); ?>
-    <?php echo ("Dinheiro que sobrou: R$" . $dinheiroRestante ); ?>
+    <?php echo ("Dinheiro que sobrou: R$" . $dinheiroRestante); ?>
 </body>
 
 </html>

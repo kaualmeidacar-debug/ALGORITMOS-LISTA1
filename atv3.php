@@ -23,7 +23,7 @@ $faltando = $servico - $entrada;
 
     <?php echo ("Valor da decoração: R$" . $servico . "<br>"); ?>
     <?php echo ("Valor pago de entrada: R$" . $entrada . "<br>"); ?>
-    <?php echo("Valor que falta a ser pago: R$" . $faltando); ?>
+    <?php echo ("Valor que falta a ser pago: R$" . $faltando); ?>
 </body>
 
 </html>
